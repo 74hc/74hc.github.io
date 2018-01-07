@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            74hc
+tagline:          ''
+description:      ''
+url:              http://74hc.github.io
+baseurl:          /
+
+author:
+  name:           '74hc'
+  url:            http://74hc.github.io
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/74hc/74hc.github.io
