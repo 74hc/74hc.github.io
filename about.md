@@ -3,10 +3,6 @@ layout: page
 title: About
 ---
 
-<p class="message">
-
-no about page at this moment, check back later!
-
-</p>
+just another boring blog from someone who does not have a lot of time.  
 
 
